@@ -1,0 +1,33 @@
+/*Estilo Etiquetas*/
+label{
+    color:#bf4783;
+    font-family: arial;
+    font-size: 12pt;
+    font-weight:bold;
+}
+
+/*Estilo Botón*/
+.boton{
+    color:#CCCCCC;
+    background-color:#c31111;
+    font-weight:bold;
+}
+h1{
+    color:aquamarine;
+}
+
+
+
+body {
+    color: aqua;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+ 
+body {
+    color:aqua;
+    font-size: 12pt;
+    font-weight: bold;
+    
+}

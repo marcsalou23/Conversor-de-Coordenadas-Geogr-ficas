@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2015-07-28T06:21:01Z"/>
+
+  <node id="249092445" lat="41.6627437" lon="-0.9023628" version="6" timestamp="2012-07-15T14:37:02Z" changeset="12230058" uid="722137" user="OSMF Redaction Account">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Almozara"/>
+  </node>
+  <node id="249092447" lat="41.6624371" lon="-0.9002820" version="3" timestamp="2012-07-15T14:37:02Z" changeset="12230058" uid="722137" user="OSMF Redaction Account">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio público de educación infantil y primaria Puerta Sancho"/>
+  </node>
+  <node id="249092448" lat="41.6621659" lon="-0.9002417" version="4" timestamp="2012-07-15T14:37:01Z" changeset="12230058" uid="722137" user="OSMF Redaction Account">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Centro de salud Almozara"/>
+  </node>
+  <node id="249350233" lat="41.6366789" lon="-0.8941234" version="1" timestamp="2008-02-26T07:57:28Z" changeset="212112" uid="18004" user="Javi Sanchez">
+    <tag k="amenity" v="hospital"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Clínica Hospital Quirón"/>
+  </node>
+  <node id="252400942" lat="41.6381478" lon="-0.8721695" version="3" timestamp="2008-09-24T05:03:16Z" changeset="687743" uid="6975" user="ulfl">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housenumber" v="s/n"/>
+    <tag k="addr:street" v="Calle de Luis Aula"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="C.M.E. San José"/>
+  </node>
+  <node id="252401124" lat="41.6360637" lon="-0.8711961" version="2" timestamp="2012-06-21T21:44:33Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Calle de José Galiay"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 41 39 97"/>
+    <tag k="contact:phone" v="+34 976 4139 97"/>
+    <tag k="name" v="Colegio Publico Calixto Ariño"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-553"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-08T12:33:10Z"/>
+  </node>
+  <node id="252401658" lat="41.6367481" lon="-0.8704387" version="1" timestamp="2008-03-16T11:55:38Z" changeset="332404" uid="7406" user="jynus">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="La Salle Montemolín"/>
+  </node>
+  <node id="264102189" lat="41.6425924" lon="-0.8705467" version="3" timestamp="2008-09-24T05:03:20Z" changeset="687743" uid="6975" user="ulfl">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="San José Centro/San José Norte"/>
+  </node>
+  <node id="356853040" lat="41.6395726" lon="-0.8728063" version="1" timestamp="2009-03-07T19:18:11Z" changeset="751609" uid="7406" user="jynus">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housename" v="Colegio Agustín Gericó"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Avenida de Cesáreo Alierta"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Agustín Gericó"/>
+  </node>
+  <node id="358189152" lat="41.6385325" lon="-0.8639556" version="2" timestamp="2014-05-10T11:13:09Z" changeset="22247907" uid="617408" user="civeronga">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Bajo Aragón"/>
+  </node>
+  <node id="526974232" lat="41.6348665" lon="-0.9402151" version="1" timestamp="2009-10-09T13:01:10Z" changeset="2792921" uid="183653" user="Fernando Pérez">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Rosales del Canal"/>
+  </node>
+  <node id="611751944" lat="41.6503772" lon="-0.9271142" version="2" timestamp="2013-06-15T18:34:25Z" changeset="16566726" uid="1550473" user="zetabierta">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Instituto de Enseñanza Secundaria María Moliner"/>
+  </node>
+  <node id="611794712" lat="41.6456312" lon="-0.8943806" version="1" timestamp="2010-01-11T19:59:35Z" changeset="3597761" uid="198173" user="oscarcollazo">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Guardería Monigotes"/>
+  </node>
+  <node id="614662851" lat="41.6358556" lon="-0.8995851" version="1" timestamp="2010-01-16T14:29:34Z" changeset="3631997" uid="198173" user="oscarcollazo">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Hospital Materno Infantil Zaragoza"/>
+  </node>
+  <node id="625896086" lat="41.6530304" lon="-0.8707247" version="1" timestamp="2010-02-01T18:10:01Z" changeset="3769718" uid="198173" user="oscarcollazo">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Centro de Salud"/>
+  </node>
+  <node id="626874191" lat="41.6679908" lon="-0.8717834" version="1" timestamp="2010-02-02T18:58:22Z" changeset="3777998" uid="198173" user="oscarcollazo">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Centro de Salud"/>
+  </node>
+  <node id="627805994" lat="41.6416652" lon="-0.8956054" version="1" timestamp="2010-02-03T16:37:34Z" changeset="3784167" uid="198173" user="oscarcollazo">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Dominicos"/>
+  </node>
+  <node id="769841435" lat="41.6507104" lon="-0.9130310" version="1" timestamp="2010-06-12T09:17:08Z" changeset="4968643" uid="302980" user="fransalsero">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Escuela de Baile El Almacén"/>
+  </node>
+  <node id="919596816" lat="41.6433491" lon="-0.8972549" version="3" timestamp="2013-01-28T11:59:49Z" changeset="14820919" uid="706423" user="jaimeMF">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="50009"/>
+    <tag k="addr:street" v="Calle de Corona de Aragón"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34976467061"/>
+    <tag k="contact:phone" v="+34976467000"/>
+    <tag k="contact:website" v="http://www.iescorona.es/"/>
+    <tag k="name" v="IES Corona de Aragón"/>
+  </node>
+  <node id="1089829040" lat="41.6537336" lon="-0.8750067" version="1" timestamp="2011-01-08T01:04:14Z" changeset="6899325" uid="392830" user="halmazan">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio San Vicente de Paúl"/>
+  </node>
+  <node id="1089829058" lat="41.6485228" lon="-0.8641491" version="1" timestamp="2011-01-08T01:04:15Z" changeset="6899325" uid="392830" user="halmazan">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="CP Las Fuentes"/>
+  </node>
+  <node id="1089829125" lat="41.6537817" lon="-0.8713375" version="1" timestamp="2011-01-08T01:04:17Z" changeset="6899325" uid="392830" user="halmazan">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="CP Tenerías"/>
+  </node>
+  <node id="1146297561" lat="41.6361854" lon="-0.9061521" version="2" timestamp="2011-02-10T23:50:55Z" changeset="7250859" uid="135561" user="Juan Rey">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1146297571" lat="41.6376671" lon="-0.9053095" version="4" timestamp="2012-06-21T21:44:34Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Pedro IIi El Grande"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:fax" v="+34 976 30 65 92"/>
+    <tag k="contact:phone" v="+34 976 30 65 92"/>
+    <tag k="name" v="Colegio Publico Doctor Azua"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-559"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T08:43:41Z"/>
+  </node>
+  <node id="1146410502" lat="41.6369191" lon="-0.9063666" version="1" timestamp="2011-02-10T23:50:52Z" changeset="7250859" uid="135561" user="Juan Rey">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1146410531" lat="41.6355920" lon="-0.9051166" version="1" timestamp="2011-02-10T23:50:52Z" changeset="7250859" uid="135561" user="Juan Rey">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1147190035" lat="41.6687583" lon="-0.8389900" version="1" timestamp="2011-02-11T11:59:11Z" changeset="7254486" uid="407571" user="cheguaka">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="C.E.I.P. Juan Pablo Bonet"/>
+  </node>
+  <node id="1152702203" lat="41.6700279" lon="-0.8309083" version="2" timestamp="2012-06-21T21:44:34Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="La Iglesia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 465825"/>
+    <tag k="contact:phone" v="+34 976 465825"/>
+    <tag k="name" v="Colegio Publico Guillermo Fatas"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-570"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T10:07:46Z"/>
+  </node>
+  <node id="1152987828" lat="41.6603598" lon="-0.8354887" version="1" timestamp="2011-02-14T17:40:15Z" changeset="7287437" uid="407571" user="cheguaka">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Inglés"/>
+  </node>
+  <node id="1153039578" lat="41.6338020" lon="-0.8865213" version="1" timestamp="2011-02-14T18:09:44Z" changeset="7287941" uid="393359" user="Robot8A">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio San Antonio de Padua"/>
+  </node>
+  <node id="1153314643" lat="41.6690995" lon="-0.8302271" version="1" timestamp="2011-02-14T20:56:03Z" changeset="7288572" uid="407571" user="cheguaka">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio La Concepción"/>
+  </node>
+  <node id="1296455120" lat="41.6448171" lon="-0.8990500" version="3" timestamp="2013-02-16T12:14:17Z" changeset="15050353" uid="706423" user="jaimeMF">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housename" v="Colegio La Purísima para niños sordos"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="50009"/>
+    <tag k="addr:street" v="Calle de Corona de Aragón"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 55 27 49"/>
+    <tag k="contact:phone" v="+34 976 55 27 49"/>
+    <tag k="name" v="Colegio La Purísima para niños sordos"/>
+  </node>
+  <node id="1462325502" lat="41.6566169" lon="-0.8871915" version="1" timestamp="2011-10-11T12:53:31Z" changeset="9530439" uid="7406" user="jynus">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Centro de Salud San Pablo"/>
+  </node>
+  <node id="1468290264" lat="41.6697092" lon="-0.8785256" version="1" timestamp="2011-10-15T14:46:57Z" changeset="9564086" uid="232854" user="KilFer">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Violeta Parra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Fundación San Valero"/>
+  </node>
+  <node id="1551048278" lat="41.6750027" lon="-0.8830044" version="1" timestamp="2011-12-17T22:56:49Z" changeset="10142686" uid="247322" user="fortega">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1797667006" lat="41.6331899" lon="-0.8906858" version="1" timestamp="2012-06-21T21:43:58Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Calle de Octavio de Toledo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 37 99 27 "/>
+    <tag k="contact:phone" v="+34 976 37 99 27 "/>
+    <tag k="name" v="C. Atades, C.e.especial San Martín de Porres"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-13803"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2011-11-11T12:59:45Z"/>
+  </node>
+  <node id="1797667021" lat="41.6397104" lon="-0.8948435" version="1" timestamp="2012-06-21T21:44:01Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Calle de Andrés Piquer"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 55 02 02 "/>
+    <tag k="contact:phone" v="+34 976 55 12 50 "/>
+    <tag k="name" v="C. La Salle Franciscanas"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-13886"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T12:55:33Z"/>
+  </node>
+  <node id="1797667040" lat="41.6517455" lon="-0.8841811" version="1" timestamp="2012-06-21T21:44:06Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Calle de Azoque "/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 22 26 99 "/>
+    <tag k="contact:phone" v="+34 976 222 699"/>
+    <tag k="name" v="C. Santa Rosa"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-13954"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:39:25Z"/>
+  </node>
+  <node id="1797667048" lat="41.6605287" lon="-0.8643228" version="1" timestamp="2012-06-21T21:44:06Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Calle de Molino de Las Armas"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 47 31 06"/>
+    <tag k="contact:phone" v="+34 976 47 88 41"/>
+    <tag k="name" v="C.p. Marie Curie"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8466"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T09:14:01Z"/>
+  </node>
+  <node id="1797667211" lat="41.6364337" lon="-0.8707435" version="1" timestamp="2012-06-21T21:44:17Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="José Galiay"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 42 91 62"/>
+    <tag k="contact:phone" v="+34 976 493903"/>
+    <tag k="name" v="Colegio Publico Angel Riviere"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-2715"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-01T11:23:35Z"/>
+  </node>
+  <node id="1797667216" lat="41.6385580" lon="-0.8938845" version="1" timestamp="2012-06-21T21:44:17Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Supervia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 55 28 46"/>
+    <tag k="contact:phone" v="+34 976 55 28 46"/>
+    <tag k="name" v="Colegio Publico Basilio Paraiso"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-552"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-08T12:20:24Z"/>
+  </node>
+  <node id="1797667238" lat="41.6654412" lon="-0.8818033" version="2" timestamp="2013-03-11T11:14:31Z" changeset="15324582" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Calle de Valero J. Ripol Urbano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 513600"/>
+    <tag k="contact:phone" v="+34 976 512111"/>
+    <tag k="name" v="Colegio Publico Cortes de Aragon"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-558"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T08:35:34Z"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1797667243" lat="41.6361028" lon="-0.9054186" version="1" timestamp="2012-06-21T21:44:18Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Asín y Palacios"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 40 20 90"/>
+    <tag k="contact:phone" v="+34 976 560875"/>
+    <tag k="name" v="Colegio Publico Eliseo Godoy"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-561"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T09:11:44Z"/>
+  </node>
+  <node id="1797667264" lat="41.6651666" lon="-0.8742498" version="1" timestamp="2012-06-21T21:44:19Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Cañon de Añisclo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 51 84 44"/>
+    <tag k="contact:phone" v="+34 976 518555"/>
+    <tag k="name" v="Colegio Publico Eugenio Lopez"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-563"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T09:29:42Z"/>
+  </node>
+  <node id="1797667284" lat="41.6510482" lon="-0.9269595" version="2" timestamp="2013-06-15T16:08:28Z" changeset="16565007" uid="1550473" user="zetabierta">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="San Vicente Ferrer"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 332032"/>
+    <tag k="contact:phone" v="+34 976 332032"/>
+    <tag k="name" v="Colegio Publico Fernando El Católico"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-565"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T09:34:18Z"/>
+  </node>
+  <node id="1797667285" lat="41.6491661" lon="-0.8776416" version="2" timestamp="2013-06-15T12:14:56Z" changeset="16562277" uid="1550473" user="zetabierta">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Pza de Los Sitios Nº"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 23 19 60"/>
+    <tag k="contact:phone" v="+34 976 231960"/>
+    <tag k="name" v="Colegio Publico Gascón y Marín"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-567"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T09:38:22Z"/>
+  </node>
+  <node id="1797667286" lat="41.6686220" lon="-0.8441150" version="1" timestamp="2012-06-21T21:44:19Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Rio Perejiles"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976572838"/>
+    <tag k="contact:phone" v="+34 976 572838"/>
+    <tag k="name" v="Colegio Publico Gloria Arenillas"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-568"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T10:05:59Z"/>
+  </node>
+  <node id="1797667313" lat="41.6585958" lon="-0.8698445" version="1" timestamp="2012-06-21T21:44:20Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Valimaña"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 20 35 28"/>
+    <tag k="contact:phone" v="+34 976 399138"/>
+    <tag k="name" v="Colegio Publico Hilarion Gimeno"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-574"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T10:26:36Z"/>
+  </node>
+  <node id="1797667331" lat="41.6458582" lon="-0.9214020" version="2" timestamp="2012-11-22T22:33:45Z" changeset="13992375" uid="960206" user="protervote">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Oceano Atlántico"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 329898"/>
+    <tag k="contact:phone" v="+34 976 329898"/>
+    <tag k="name" v="Colegio Publico Hispanidad"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-575"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T10:28:12Z"/>
+  </node>
+  <node id="1797667332" lat="41.6414566" lon="-0.9299821" version="1" timestamp="2012-06-21T21:44:21Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Calle de El Noticiero"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 345342"/>
+    <tag k="contact:phone" v="+34 976 345342"/>
+    <tag k="name" v="Colegio Publico Jeronimo Blancas"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-576"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:13:38Z"/>
+  </node>
+  <node id="1797667336" lat="41.6636001" lon="-0.8990122" version="1" timestamp="2012-06-21T21:44:21Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Avenida de de La Almozara"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 404609"/>
+    <tag k="contact:phone" v="+34 976 404608"/>
+    <tag k="name" v="Colegio Publico Jeronimo Zurita"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-577"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:15:20Z"/>
+  </node>
+  <node id="1797667343" lat="41.6519760" lon="-0.8915784" version="2" timestamp="2013-06-15T12:14:57Z" changeset="16562277" uid="1550473" user="zetabierta">
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Paseo de Mª Agustín"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 23 55 65"/>
+    <tag k="contact:phone" v="+34 976 235565"/>
+    <tag k="name" v="Colegio Publico Joaquín Costa"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-578"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:29:15Z"/>
+  </node>
+  <node id="1797667355" lat="41.6771786" lon="-0.8968892" version="1" timestamp="2012-06-21T21:44:21Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Calle de Pedro Saputo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 737842"/>
+    <tag k="contact:phone" v="+34 976 737842"/>
+    <tag k="name" v="Colegio Publico José Antonio Labordeta"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-569"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:31:01Z"/>
+  </node>
+  <node id="1797667365" lat="41.6590218" lon="-0.9441565" version="1" timestamp="2012-06-21T21:44:22Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Camino del Pilón"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976340620"/>
+    <tag k="contact:phone" v="+34 976 340620"/>
+    <tag k="name" v="Colegio Publico Julian Nieto Tapia"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-583"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:53:15Z"/>
+  </node>
+  <node id="1797667381" lat="41.6626693" lon="-0.9020458" version="1" timestamp="2012-06-21T21:44:22Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Bonn"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 46 93 03"/>
+    <tag k="contact:phone" v="+34 976 433595"/>
+    <tag k="name" v="Colegio Publico La Almozara"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-585"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T12:27:26Z"/>
+  </node>
+  <node id="1797667387" lat="41.6639194" lon="-0.8587390" version="1" timestamp="2012-06-21T21:44:22Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Calle de Pedro Lázaro"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 47 27 29"/>
+    <tag k="contact:phone" v="+34 976 47 27 29"/>
+    <tag k="name" v="Colegio Publico La Estrella"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-586"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T12:45:18Z"/>
+  </node>
+  <node id="1797667392" lat="41.6599209" lon="-0.8587612" version="1" timestamp="2012-06-21T21:44:22Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Calle de Balbino Orensanz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 47 41 29"/>
+    <tag k="contact:phone" v="+34 976 474129"/>
+    <tag k="name" v="Colegio Publico La Jota"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-587"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T12:47:12Z"/>
+  </node>
+  <node id="1797667402" lat="41.6484632" lon="-0.8637684" version="1" timestamp="2012-06-21T21:44:23Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Calle de Doctor Iranzo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 41 61 78"/>
+    <tag k="contact:phone" v="+34 976 494900"/>
+    <tag k="name" v="Colegio Publico Las Fuentes"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-588"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T13:04:25Z"/>
+  </node>
+  <node id="1797667412" lat="41.6436304" lon="-0.8646965" version="1" timestamp="2012-06-21T21:44:23Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Calle de Doctor Iranzo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 41 59 07"/>
+    <tag k="contact:phone" v="+34 976 415907"/>
+    <tag k="name" v="Colegio Publico Marcos Frechin"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-590"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T08:50:42Z"/>
+  </node>
+  <node id="1797667418" lat="41.6425443" lon="-0.8789981" version="1" timestamp="2012-06-21T21:44:23Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Parque Miraflores "/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 493105"/>
+    <tag k="contact:phone" v="+34 976 493105"/>
+    <tag k="name" v="Colegio Publico Miraflores"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-593"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T09:20:19Z"/>
+  </node>
+  <node id="1797667426" lat="41.6622735" lon="-0.8998555" version="1" timestamp="2012-06-21T21:44:24Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Calle de Batalla de Almansa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 46 98 70"/>
+    <tag k="contact:phone" v="+34 976 44 35 77"/>
+    <tag k="name" v="Colegio Publico Puerta Sancho"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-780"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T10:16:03Z"/>
+  </node>
+  <node id="1797667427" lat="41.6523348" lon="-0.9236421" version="1" timestamp="2012-06-21T21:44:24Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Teodora Lamadrid"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 34 48 65"/>
+    <tag k="contact:phone" v="+34 976 344865"/>
+    <tag k="name" v="Colegio Publico Ramiro Solans"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-596"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T10:18:40Z"/>
+  </node>
+  <node id="1797667430" lat="41.6684017" lon="-0.8736126" version="1" timestamp="2012-06-21T21:44:25Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Pantano de yesa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976740135"/>
+    <tag k="contact:phone" v="+34 976 514335"/>
+    <tag k="name" v="Colegio Publico San Braulio"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-599"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:02:33Z"/>
+  </node>
+  <node id="1797667432" lat="41.6538939" lon="-0.8715231" version="1" timestamp="2012-06-21T21:44:26Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="Calle de Coso"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 39 04 34"/>
+    <tag k="contact:phone" v="+34 976 292950"/>
+    <tag k="name" v="Colegio Publico Tenerias"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-602"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:44:11Z"/>
+  </node>
+  <node id="1797667433" lat="41.6623013" lon="-0.8754018" version="1" timestamp="2012-06-21T21:44:26Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Valle de Zuriza"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 743541"/>
+    <tag k="contact:phone" v="+34 976 514876"/>
+    <tag k="name" v="Colegio Publico Tio Jorge"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-603"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:48:08Z"/>
+  </node>
+  <node id="1797667434" lat="41.6398816" lon="-0.8670115" version="1" timestamp="2012-06-21T21:44:26Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Pasaje de Las Cigüeñas"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 46 14 31"/>
+    <tag k="contact:phone" v="+34 976 423300"/>
+    <tag k="name" v="Colegio Publico Tomas Alvira"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-604"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:50:59Z"/>
+  </node>
+  <node id="1797667435" lat="41.6442384" lon="-0.8615592" version="2" timestamp="2014-06-16T01:59:15Z" changeset="22954945" uid="2126601" user="guillermofdezg">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Batalla de Lepanto"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34  976 41 84 77"/>
+    <tag k="contact:phone" v="+34 976 418477"/>
+    <tag k="name" v="Colegio Publico Torre Ramona"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-605"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T12:53:52Z"/>
+  </node>
+  <node id="1797667436" lat="41.6768553" lon="-0.8775622" version="1" timestamp="2012-06-21T21:44:26Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Calle de Islas Canarias"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 734500"/>
+    <tag k="contact:phone" v="+34 976 734500"/>
+    <tag k="name" v="Colegio Publico Zalfonada"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-606"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-15T08:34:55Z"/>
+  </node>
+  <node id="1797667437" lat="41.6746410" lon="-0.8834927" version="1" timestamp="2012-06-21T21:44:27Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Julio García Condoy"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 51 80 59"/>
+    <tag k="contact:phone" v="+34 976 732450"/>
+    <tag k="name" v="Colegio Público Josefa Amar y Borbón"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-2712"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:44:08Z"/>
+  </node>
+  <node id="1797667438" lat="41.6570765" lon="-0.9167982" version="2" timestamp="2014-02-21T09:56:31Z" changeset="20690205" uid="1946907" user="Cierzo64">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="50017"/>
+    <tag k="addr:street" v="Avenida de Navarra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 32 91 02"/>
+    <tag k="contact:phone" v="+34 976 329102"/>
+    <tag k="name" v="Colegio Público José Camón Aznar"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-579"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-13T11:33:54Z"/>
+  </node>
+  <node id="1797667440" lat="41.6567234" lon="-0.9335201" version="1" timestamp="2012-06-21T21:44:28Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Ibón de Astún "/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 876 266 585"/>
+    <tag k="contact:phone" v="+34 876 266 599"/>
+    <tag k="name" v="Colegio Público Miralbueno"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-3906"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T09:25:39Z"/>
+  </node>
+  <node id="1797667443" lat="41.6453849" lon="-0.9161100" version="1" timestamp="2012-06-21T21:44:28Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Vía Hispanidad"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 33 28 64"/>
+    <tag k="contact:phone" v="+34 976 33 28 64"/>
+    <tag k="name" v="Colegio de Educación Infantil y Primaria Antonio Beltrán Martínez"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8597"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-08T12:10:57Z"/>
+  </node>
+  <node id="1797667444" lat="41.6706657" lon="-0.8737978" version="1" timestamp="2012-06-21T21:44:29Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:street" v="Camino de Juslibol "/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 74 35 16"/>
+    <tag k="contact:phone" v="+34 976 74 35 16"/>
+    <tag k="name" v="Colegio de Educación Infantil y Primaria Lucien Briet"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8665"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T08:35:18Z"/>
+  </node>
+  <node id="1797667446" lat="41.6335062" lon="-0.9424047" version="1" timestamp="2012-06-21T21:44:29Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Calle de Luis Gracia Iberni"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 876241182"/>
+    <tag k="contact:phone" v="+34 876241565"/>
+    <tag k="name" v="Colegio de Educación Infantil y Primaria Rosales del Canal"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8958"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T11:30:25Z"/>
+  </node>
+  <node id="1797667447" lat="41.6570563" lon="-0.8572866" version="1" timestamp="2012-06-21T21:44:29Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:street" v="Calle de Alfonso Zapater Cerdán"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976295245"/>
+    <tag k="contact:phone" v="+34 976399685"/>
+    <tag k="name" v="Colegio de Educación Infantil y Primaria Vadorrey"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8961"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-14T13:03:22Z"/>
+  </node>
+  <node id="1797667454" lat="41.6566276" lon="-0.8898407" version="1" timestamp="2012-06-21T21:44:30Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Calle de San Pablo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:fax" v="+34 976 721483"/>
+    <tag k="contact:phone" v="+34 976 721483"/>
+    <tag k="name" v="Escuela Taller Casco Histórico"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-2809"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2011-11-11T10:48:27Z"/>
+  </node>
+  <node id="1797667457" lat="41.6515339" lon="-0.8885892" version="1" timestamp="2012-06-21T21:44:31Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Jose Luis Albareda"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:phone" v="+34 976 769 831"/>
+    <tag k="name" v="Escuela de Educación Infantil de La Delegación Especial de Economía"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8546"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-16T11:05:19Z"/>
+  </node>
+  <node id="1797667458" lat="41.6447232" lon="-0.9233402" version="1" timestamp="2012-06-21T21:44:31Z" changeset="11973419" uid="703735" user="zgz2osm">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Jarque de Moncayo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:phone" v="+34 976 33 20 78"/>
+    <tag k="name" v="Guardería del Gobierno de Aragón Inmaculada Concepción"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-8549"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2012-03-07T09:10:27Z"/>
+  </node>
+  <node id="1797667459" lat="41.6704278" lon="-0.8855490" version="3" timestamp="2013-03-12T22:32:14Z" changeset="15342606" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Calle de Poeta Neruda Pablo "/>
+    <tag k="amenity" v="school"/>
+    <tag k="contact:phone" v="+34 976520551 "/>
+    <tag k="name" v="Professional School Of English"/>
+    <tag k="ref:ayto_zaragoza" v="recurso-112330"/>
+    <tag k="source" v="Ayuntamiento de Zaragoza"/>
+    <tag k="source:date" v="2011-11-11T10:48:27Z"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1968649621" lat="41.6297083" lon="-0.8821253" version="1" timestamp="2012-10-16T17:18:04Z" changeset="13521644" uid="393359" user="Robot8A">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio el Buen Pastor"/>
+  </node>
+  <node id="2117013095" lat="41.6753079" lon="-0.8864509" version="2" timestamp="2013-03-21T11:22:04Z" changeset="15441069" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="C.S. Actur Norte"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2428998333" lat="41.6453076" lon="-0.9042564" version="1" timestamp="2013-08-23T09:45:49Z" changeset="17467424" uid="240498" user="msevilla00">
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="name" v="Centro de Salud DElicias"/>
+  </node>
+  <node id="2639788797" lat="41.6334886" lon="-0.9017250" version="1" timestamp="2014-01-27T16:05:03Z" changeset="20231468" uid="27449" user="sucotronic">
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="name" v="Consultas Externas Miguel Servet"/>
+  </node>
+  <node id="2683222966" lat="41.6574082" lon="-0.9164595" version="2" timestamp="2014-03-23T14:32:24Z" changeset="21265263" uid="213831" user="Josef73">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="50017"/>
+    <tag k="addr:street" v="Avenida de Navarra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="I.E.S. Santiago Hernández"/>
+    <tag k="opening_hours" v="Mo-Fr 08:15-21:20"/>
+  </node>
+  <node id="2918118115" lat="41.6436889" lon="-0.8611339" version="1" timestamp="2014-06-16T01:53:56Z" changeset="22954932" uid="2126601" user="guillermofdezg">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="CEIP Torre Ramona"/>
+  </node>
+  <node id="2918118247" lat="41.6438344" lon="-0.8624469" version="1" timestamp="2014-06-16T01:59:13Z" changeset="22954945" uid="2126601" user="guillermofdezg">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="IES Pablo Serrano"/>
+  </node>
+  <node id="2964265265" lat="41.6592744" lon="-0.8677238" version="1" timestamp="2014-07-15T12:29:33Z" changeset="24159946" uid="960206" user="protervote">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Calle de Pedro Arnal Cavero"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hilarión Gimeno"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3207721261" lat="41.6689927" lon="-0.8822911" version="1" timestamp="2014-11-27T14:43:35Z" changeset="27068652" uid="2488856" user="wall92">
+    <tag k="addr:city" v="Zaragoza"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="50018"/>
+    <tag k="addr:street" v="Rafael Alberti"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio El Pilar Maristas"/>
+  </node>
+  <node id="3215665261" lat="41.6715432" lon="-0.8829965" version="1" timestamp="2014-12-02T12:39:02Z" changeset="27176289" uid="2488856" user="wall92">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Sagrado Corazón"/>
+  </node>
+
+</osm>

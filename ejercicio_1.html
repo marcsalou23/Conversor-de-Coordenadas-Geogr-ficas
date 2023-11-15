@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <h1>Transformador de coordenadas</h1>
+        <h3>Marc C. Avila</h3>
+        <style type="text/css">
+            body {
+                color: #1f6098;
+                font-size: 14pt;
+                font-weight: lighter;
+                font-family: monospace;
+            }
+
+            h1 {
+                color: #189be0;
+                font-size: 20pt;
+                font-style: normal;
+                font-family: sans-serif;
+            }
+
+            h3 {
+                color: #189be0;
+                font-size: 16pt;
+                font-style: italic;
+                font-family: sans-serif;
+            }
+        </style>
+    </head>
+
+    <body>
+        Entrada:
+        <select name="Entrada" id="epsgEntrada">
+            <option value="EPSG:4326">EPSG:4326</option>
+            <option value="EPSG:25830">EPSG:25830</option>
+            <option value="EPSG:3034">EPSG:3034</option>
+            <option value="EPSG:3035">EPSG:3035</option></select
+        ><br />
+
+        Longitud: <input type="text" id="entradaX" value="495609.69832" /><br />
+        Latitud: <input type="text" id="entradaY" value="4624136.85418" /><br />
+        <br />
+        Salida:<select name="Salida" id="epsgSalida">
+            <option value="EPSG:4326">EPSG:4326</option>
+            <option value="EPSG:25830">EPSG:25830</option>
+            <option value="EPSG:3034">EPSG:3034</option>
+            <option value="EPSG:3035">EPSG:3035</option>
+        </select>
+
+        <p hidden>
+            Longitud: <input type="text" id="salidaX" value="" /><br />
+            Latitud: <input type="text" id="salidaY" value="" /><br />
+        </p>
+
+        <input type="button" value="Calcula" onclick="conviertePunto()" /><br />
+
+        <script
+            type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.6.3/proj4.js"
+        ></script>
+        <script type="text/javascript" src="./js/proj4js/defs.js"></script>
+
+        <br />
+
+        <script type="text/javascript">
+            function conviertePunto() {
+                console.debug('Aquí transformaremos las coordenadas');
+                //            var epsg1 = document.getElementById("epsgEntrada");
+                //            var result = epsg1.options[epsg1.selectedIndex].value;
+
+                var epsg_entrada = document.getElementById('epsgEntrada');
+                var result1 =
+                    epsg_entrada.options[epsg_entrada.selectedIndex].text;
+                document.getElementById('result1_div').innerHTML = result1;
+
+                var epsg_salida = document.getElementById('epsgSalida');
+                var result2 =
+                    epsg_salida.options[epsg_salida.selectedIndex].value;
+                document.getElementById('result2_div').innerHTML = result2;
+
+                //Definimos los sitemas de referencia de entrada y salida
+                var epsgEntrada = proj4(
+                    document.getElementById('epsgEntrada').value
+                );
+                var epsgSalida = proj4(
+                    document.getElementById('epsgSalida').value
+                );
+
+                console.debug(epsgEntrada);
+                console.debug(epsgSalida);
+
+                //obtenemos el valor de entrada del punto
+                var coordenadaX = parseFloat(
+                    document.getElementById('entradaX').value
+                );
+                var coordenadaY = parseFloat(
+                    document.getElementById('entradaY').value
+                );
+                document.getElementById('entradaX').value = coordenadaX;
+                document.getElementById('entradaX_div').innerHTML = coordenadaX;
+                document.getElementById('entradaY').value = coordenadaY;
+                document.getElementById('entradaY_div').innerHTML = coordenadaY;
+
+                //creamos el punto de entrada con los valores del formulario
+                var pEntrada = proj4.toPoint([coordenadaX, coordenadaY]);
+                console.debug(pEntrada);
+
+                //transformamos las coordenadas del punto de entrada
+                var pSalida = proj4(epsgEntrada, epsgSalida, pEntrada);
+                console.debug(pSalida);
+
+                //mostramos el resultado en los campos de salida
+                document.getElementById('salidaX').value = pSalida.x;
+                document.getElementById('salidaY').value = pSalida.y;
+                document.getElementById('salidaX_div').innerHTML = pSalida.x;
+                document.getElementById('salidaY_div').innerHTML = pSalida.y;
+
+                //sacar la propiedad EllipseName del objeto EPSG de salida
+                console.log(
+                    'Elipoide de salida: ' + proj4(epsgSalida).oProj.ellps
+                ); //epsgSalida.initEllipsoid.ellipseName);
+            }
+        </script>
+        <div id="resultado" style="color: #189be0">
+            <label>Resultado de la transformación de las coordenadas:</label>
+            <label type="text" id="entradaX_div"></label>,<label
+                type="text"
+                id="entradaY_div"
+            ></label>
+            en <b type="text" id="result1_div"></b> al
+            <b type="text" id="result2_div"></b> =
+            <label type="text" id="salidaX_div"></label>,<label
+                type="text"
+                id="salidaY_div"
+            ></label>
+        </div>
+    </body>
+</html>
