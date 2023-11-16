@@ -5,7 +5,6 @@ Puedes acceder a la aplicación desde [ésta url](https://marc-cuenca-portfolio.
 
 ![web](https://s5.gifyu.com/images/SRNym.gif)
 
-https://s5.gifyu.com/images/SRNym.gif
 
 ## Descripción
 
