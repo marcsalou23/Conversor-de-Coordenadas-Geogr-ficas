@@ -3,9 +3,7 @@
 Este es una aplicación simple para convertir coordenadas geográficas entre diferentes sistemas de referencia espacial (EPSG).
 Puedes acceder a la aplicación desde [ésta url](https://marc-cuenca-portfolio.vercel.app/)
 
-![web](Puedes acceder a él en [ésta url](https://marc-cuenca-portfolio.vercel.app/)
-
-![web](https://i.ibb.co/gjJThG1/Screenshot-2023-11-16-121944.png))
+![web](https://s5.gifyu.com/images/SRNym.gif)
 
 https://s5.gifyu.com/images/SRNym.gif
 
