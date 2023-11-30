@@ -31,7 +31,7 @@ Esta aplicación web permite a los usuarios ingresar coordenadas en un sistema d
 
 ## Instalación Local
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/turepositorio.git`
+1. Clona este repositorio: `git clone https://github.com/marcsalou23/Conversor-de-Coordenadas-Geograficas.git`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Dependencias
